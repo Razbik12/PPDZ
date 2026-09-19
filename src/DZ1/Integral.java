@@ -1,3 +1,5 @@
+package DZ1;
+
 import java.util.concurrent.atomic.DoubleAdder;
 public class Integral {
     public static final int STEPS = 10000000;
